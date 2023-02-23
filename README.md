@@ -10,7 +10,7 @@
 - vgames2.csv : 게임의 정보와 출고량을 나타내는 데이터셋
 - 16598 rows × 9 columns
 
-## 1.3. Columns Description
+### Columns Description
 - Name : 게임의 이름
 - Platform : 게임을 구동하는 플랫폼 이름
 - Year : 게임이 출시된 연도
@@ -20,6 +20,12 @@
 - EU_Sales : 유럽지역에서의 판매량
 - JP_Sales : 일본지역에서의 판매량
 - Other_Sales : 기타지역에서의 판매량
+
+## 1.3. 스킬셋
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 
 # 2. 데이터 전처리
