@@ -54,10 +54,18 @@
 - 연도를 고려하지 않은 이유 : 게임의 출시년도와 관계없이 게임이 재미있다면 사람들은 계속하여 소비함
 
 ### 분석 내용
+- 북미, 유럽, 기타 지역 : 액션, 스포츠, 슈팅 장르가 판매량 전체의 50%정도 차지함
+![image](https://github.com/yeeoonoo/project1/assets/110115061/87318e0f-69d7-41f3-8e67-b799d6610528)
+![image](https://github.com/yeeoonoo/project1/assets/110115061/3a0af312-eac7-44de-9794-f523523b6acd)
+![image](https://github.com/yeeoonoo/project1/assets/110115061/017965af-5103-4b8b-9df7-daad662c88ea)
 
-- 북미, 유럽, 기타 지역 : 액션, 스포츠, 슈팅 장르가 전체의 50%를 상회함
-- 일본 : 롤플레잉, 플랫폼, 액션 장르가 전체의 50%를 상회함
+- 일본 : 다른 지역과 달리 롤플레잉, 플랫폼 장르가 상당한 비중을 차지함
+![image](https://github.com/yeeoonoo/project1/assets/110115061/6e700e6a-a957-469d-ac90-57a02b16982a)
+
 - 전세계 게임 장르 선호도가 북미, 유럽, 기타지역과 유사한 양상을 보임
+![image](https://github.com/yeeoonoo/project1/assets/110115061/b74c0ddb-a7a0-43ea-95c6-312bffbcdcbb)
+![image](https://github.com/yeeoonoo/project1/assets/110115061/02528bdf-a92c-474f-83eb-bf5640944563)
+
 
 ### 결론 : 차기 개발 게임 장르는 액션, 스포츠, 슈팅 중에서 정하는 것이 좋을 것이라 판단함
 - 일본 소비시장을 타겟팅하는 프로젝트가 아니라면 전체 시장을 고려하여 액션, 스포츠, 슈팅 장르의 게임을 개발하는 것을 제안  
