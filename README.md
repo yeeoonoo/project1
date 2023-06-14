@@ -57,14 +57,14 @@
 ### 분석 내용
 - 북미, 유럽, 기타 지역 : 액션, 스포츠, 슈팅 장르가 판매량 전체의 50%정도 차지함
   - 북미 지역
-![image](https://github.com/yeeoonoo/project1/assets/110115061/87318e0f-69d7-41f3-8e67-b799d6610528)
+![image](https://github.com/yeeoonoo/project1/assets/110115061/80c86dcf-50f5-4ebc-8a87-1eac55f3781b)
   - 유럽 지역
-![image](https://github.com/yeeoonoo/project1/assets/110115061/3a0af312-eac7-44de-9794-f523523b6acd)
+![image](https://github.com/yeeoonoo/project1/assets/110115061/32ee1f85-3f14-46ea-a07e-f00e7d4a0970)
   - 기타 지역
-![image](https://github.com/yeeoonoo/project1/assets/110115061/017965af-5103-4b8b-9df7-daad662c88ea)
+![image](https://github.com/yeeoonoo/project1/assets/110115061/df935926-97d5-4484-9ee0-6ed10b52a7bc)
 
 - 일본 : 다른 지역과 달리 롤플레잉, 플랫폼 장르가 상당한 비중을 차지함
-![image](https://github.com/yeeoonoo/project1/assets/110115061/6e700e6a-a957-469d-ac90-57a02b16982a)
+  ![image](https://github.com/yeeoonoo/project1/assets/110115061/b582c85e-e9f2-4f9a-8aef-5976c0a86b22)
 
 - 전세계 게임 장르 선호도가 북미, 유럽, 기타지역과 유사한 양상을 보임
   - 전세계 판매량 각 지역 비중
