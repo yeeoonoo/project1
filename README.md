@@ -47,6 +47,7 @@
 
 ---
 # 3. 데이터 분석
+- 데이터 시각화 및 분석은 태블로를 활용함
 - 대시보드 : https://public.tableau.com/app/profile/yeeoonoo/viz/Project1_16856851500320/1
 
 ## 3.1. 지역에 따라서 선호하는 게임 장르가 다른가
